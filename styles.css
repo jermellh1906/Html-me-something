@@ -1,0 +1,25 @@
+p {
+    margin: auto auto auto auto;
+  }
+
+article {
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+
+header {
+    text-align: center;
+    text-transform: uppercase;
+    color: #4CAF50;
+}
+  
+#deerPic {
+    border-style: ridge;
+}
+
+.firstParagraph {
+    font-style: italic;
+}
+
